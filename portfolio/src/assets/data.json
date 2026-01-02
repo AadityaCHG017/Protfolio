@@ -1,0 +1,48 @@
+{
+  "name": "Aaditya Chandra Gupta",
+  "bio": "A passionate software developer with a knack for creating modern web applications.",
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Expert"
+    },
+    {
+      "name": "React",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Expert"
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "link": "https://example.com/portfolio"
+    },
+    {
+      "title": "E-commerce Platform",
+      "description": "A full-stack e-commerce application built with React and Node.js.",
+      "link": "https://example.com/ecommerce"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "A blogging platform where users can create and share their articles.",
+      "link": "https://example.com/blog"
+    }
+  ],
+  "contact": {
+    "email": "aaditya@example.com",
+    "linkedin": "https://www.linkedin.com/in/aaditya-chandra-gupta-17842b2b8/",
+    "github": "https://github.com/AadityaCHG017"
+  }
+}

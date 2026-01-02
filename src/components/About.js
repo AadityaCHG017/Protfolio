@@ -18,15 +18,15 @@ const About = ({ data }) => {
 
           <div className="space-y-6">
             <div className="bg-slate-800 bg-opacity-50 backdrop-blur p-8 rounded-xl border border-slate-700 card-hover transform">
-              <div className="text-4xl font-bold text-blue-400 mb-2">4+</div>
+              <div className="text-4xl font-bold text-blue-400 mb-2">0</div>
               <p className="text-gray-300 text-lg">Years of Experience</p>
             </div>
             <div className="bg-slate-800 bg-opacity-50 backdrop-blur p-8 rounded-xl border border-slate-700 card-hover transform">
-              <div className="text-4xl font-bold text-blue-400 mb-2">20+</div>
+              <div className="text-4xl font-bold text-blue-400 mb-2">2</div>
               <p className="text-gray-300 text-lg">Projects Completed</p>
             </div>
             <div className="bg-slate-800 bg-opacity-50 backdrop-blur p-8 rounded-xl border border-slate-700 card-hover transform">
-              <div className="text-4xl font-bold text-blue-400 mb-2">15+</div>
+              <div className="text-4xl font-bold text-blue-400 mb-2">0</div>
               <p className="text-gray-300 text-lg">Happy Clients</p>
             </div>
           </div>

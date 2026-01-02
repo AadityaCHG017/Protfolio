@@ -1,7 +1,7 @@
 {
   "personal": {
     "name": "Aaditya Chandra Gupta",
-    "title": "Full Stack Developer",
+    "title": "Student | Aspiring Full-Stack Developer",
     "email": "aaditya@example.com",
     "phone": "+91 XXXXX XXXXX",
     "location": "India",
@@ -18,92 +18,54 @@
   "skills": [
     {
       "category": "Frontend",
-      "items": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "HTML/CSS", "Vue.js"]
+      "items": ["React", "JavaScript", "HTML/CSS" ]
     },
     {
       "category": "Backend",
-      "items": ["Node.js", "Express.js", "Python", "Django", "MongoDB", "PostgreSQL"]
+      "items": ["Node.js", "Python", "Flask", "Java", "C"]
     },
     {
       "category": "Tools & Platforms",
-      "items": ["Git", "Docker", "AWS", "Figma", "VS Code", "Linux"]
+      "items": ["Git","VS Code"]
     },
     {
       "category": "Soft Skills",
-      "items": ["Problem Solving", "Team Collaboration", "Communication", "Project Management"]
+      "items": ["Problem Solving", "Communication", "Project Management"]
     }
   ],
   "projects": [
     {
       "id": 1,
-      "title": "E-Commerce Platform",
-      "description": "A full-stack e-commerce solution with real-time inventory management, secure payment integration, and admin dashboard.",
-      "image": "https://via.placeholder.com/400x300?text=Ecommerce",
-      "tags": ["React", "Node.js", "MongoDB", "Stripe"],
-      "link": "#",
-      "github": "#"
+      "title": "AI Chat Application",
+      "description": "Real-time chat application with AI-powered responses for diseases awareness and prevention in whatsapp and sms.(It is just a sample project, not deployed anywhere)",
+      "image": "https://via.placeholder.com/400x300?text=ChatApp",
+      "tags": ["Python", "Flask", "Twilio API"],
+      "github": "https://github.com/AadityaCHG017"
     },
     {
       "id": 2,
-      "title": "Task Management App",
-      "description": "Collaborative task management application with real-time updates, user authentication, and productivity analytics.",
-      "image": "https://via.placeholder.com/400x300?text=TaskApp",
-      "tags": ["React", "Firebase", "Tailwind CSS"],
-      "link": "#",
-      "github": "#"
-    },
-    {
-      "id": 3,
-      "title": "AI Chat Application",
-      "description": "Real-time chat application with AI-powered responses, message history, and multiple conversation threads.",
-      "image": "https://via.placeholder.com/400x300?text=ChatApp",
-      "tags": ["React", "WebSocket", "OpenAI API"],
-      "link": "#",
-      "github": "#"
-    },
-    {
-      "id": 4,
-      "title": "Data Visualization Dashboard",
-      "description": "Interactive dashboard for visualizing complex datasets with various chart types and real-time data updates.",
+      "title": "Sample Youtube page",
+      "description": "A very simple youtube page clone with same UI and functionalities.",
       "image": "https://via.placeholder.com/400x300?text=Dashboard",
-      "tags": ["React", "D3.js", "Express", "PostgreSQL"],
-      "link": "#",
-      "github": "#"
+      "tags": ["HTML", "CSS"],
+      "github": "https://github.com/AadityaCHG017"
     }
   ],
   "experience": [
     {
-      "id": 1,
-      "company": "Tech Innovation Solutions",
-      "position": "Senior Full Stack Developer",
-      "duration": "2023 - Present",
-      "description": "Led development of scalable web applications serving 100k+ users. Mentored junior developers and implemented best practices.",
-      "achievements": ["Increased app performance by 40%", "Reduced deployment time by 50%", "Built 5+ production features"]
-    },
-    {
-     "id": 2,
-      "company": "Digital Ventures Inc.",
-      "position": "Full Stack Developer",
-      "duration": "2021 - 2023",
-      "description": "Developed and maintained multiple React applications with Node.js backends. Collaborated with design and product teams.",
-      "achievements": ["Launched 3 successful products", "Improved code coverage to 85%", "Optimized database queries"]
-    },
-    {
-      "id": 3,
-      "company": "StartUp Labs",
-      "position": "Junior Developer",
-      "duration": "2020 - 2021",
-      "description": "Built frontend features using React and contributed to backend API development with Node.js.",
-      "achievements": ["Delivered 20+ features", "Fixed critical production bugs", "Learned full-stack development"]
+      "description": "I am currently a student at Reva University, pursuing my Bachelor's degree in Bachelor of Computer Application (BCA). My academic journey is helping me build a strong foundation in computer science and software development.",
+      "role": "Student",
+      "University": "Reva University",
+      "duration": "2025 - Present"
     }
   ],
   "about": {
     "title": "About Me",
-    "intro": "I'm a passionate software developer with 4+ years of experience in building modern web applications.",
+    "intro": "I'm a passionate student learning and improving my skills in web development and software engineering.",
     "paragraphs": [
-      "I specialize in full-stack development with a focus on creating user-friendly interfaces and scalable backend systems. My journey in tech started with a curiosity about how things work, which evolved into a professional career.",
-      "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or writing technical blogs. I believe in continuous learning and sharing knowledge with the community.",
-      "I'm always open to exciting opportunities and collaborations. Whether you need a developer for your project or just want to chat about tech, feel free to reach out!"
+      "I am learning various technologies including React, Node.js, Java, and Python to build full-stack applications.",
+      "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects. I believe in continuous learning and improving my skills.",
+      "I'm always open to exciting opportunities. feel free to reach out!"
     ]
   }
 }

@@ -21,7 +21,7 @@ const Hero = ({ data }) => {
                 Aaditya
               </span>
             </h1>
-            <p className="text-2xl text-blue-400 font-semibold mb-4">Full Stack Developer</p>
+            <p className="text-2xl text-blue-400 font-semibold mb-4">Aspiring Full Stack Developer</p>
             <p className="text-gray-400 text-lg mb-8 leading-relaxed max-w-lg">
               I build elegant solutions to complex problems using modern web technologies. Passionate about creating user-friendly interfaces and scalable backend systems.
             </p>
@@ -46,13 +46,15 @@ const Hero = ({ data }) => {
               <div className="w-full h-full rounded-full bg-gradient-to-br from-blue-500 to-purple-600 opacity-75 blur-3xl"></div>
             </div>
             <div className="absolute inset-0 flex items-center justify-center">
-              <div className="w-64 h-64 rounded-full bg-gradient-to-br from-blue-500 to-blue-700 flex items-center justify-center text-7xl shadow-2xl">
-                💻
+              <img
+                src={process.env.PUBLIC_URL + '/myimg.jpeg'}
+                alt="Profile"
+                className="absolute bottom-110 right-110 rounded-full border-4 border-white shadow-lg object-cover w-[250px] h-[250px] md:w-[470px] md:h-[470px]"
+              />
               </div>
             </div>
           </div>
         </div>
-      </div>
 
       {/* Scroll Indicator */}
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">

@@ -40,9 +40,7 @@ const Projects = ({ data }) => {
                   ))}
                 </div>
                 <div className="flex gap-4 text-blue-400 font-medium">
-                  <a href={project.link} className="hover:text-blue-300 transition flex items-center gap-1">
-                    View Project <i className="fas fa-arrow-right text-xs"></i>
-                  </a>
+                  
                   <a href={project.github} className="hover:text-blue-300 transition flex items-center gap-1">
                     GitHub <i className="fas fa-arrow-right text-xs"></i>
                   </a>
